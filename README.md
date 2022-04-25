@@ -184,6 +184,16 @@ Dim startTime As Single
 End Sub
 
 
+![](https://github.com/nadiezhdamhb/stock_analysis/blob/main/run_time_2017.png)
+
+
+
+![](https://github.com/nadiezhdamhb/stock_analysis/blob/main/run_time_2018.png)
+
+
+
+
+
 1. What are the advantages or disadvantages of refactoring code?
 
 The advantages to refactoring the code is that it gives you an opportunity to review your code and make it more efficient by finding ways to make it shorter, reuse code and try to solve problems or type code more elegantly.
