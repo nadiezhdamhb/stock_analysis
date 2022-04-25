@@ -187,8 +187,7 @@ End Sub
 ![](https://github.com/nadiezhdamhb/stock_analysis/blob/main/run%20time%202017.png)
 
 
-![](https://github.com/nadiezhdamhb/stock_analysis/blob/main/run_time_2018.png)
-
+![](https://github.com/nadiezhdamhb/stock_analysis/blob/main/run%20time%202018.png)
 
 
 
